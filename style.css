@@ -1,2 +1,12 @@
 h1 { text-align: center;}
+h1 { text-decoration-line: underline;}
+h1{ font-family: Anton;}
 #h2inicial { text-align:center;}
+.h2depois {
+    font-family: sans-serif;
+}
+
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
