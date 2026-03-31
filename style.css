@@ -6,4 +6,6 @@ h1 { text-align: center;}
 
 
 .postIt{display: flex;justify-content: center;gap: 20px;padding: 40px;}
-.post1, .post2, .post3{width: 250px;min-height: 250px;padding: 20px;box-shadow: 5px 5px 10px gray;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+.post1, .post2, .post3{width: 250px;min-height: 250px;padding: 20px;box-shadow: 5px 5px 10px gray;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;background-color:rgb(255, 177, 121);
+}
+.postIt a{text-decoration: none;color: inherit;font-weight: bold;border-bottom: 1px dashed rgb(255, 130, 41);}
