@@ -10,3 +10,10 @@ p {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
+
+
+
+
+
+.postIt{display: flex;justify-content: center;gap: 20px;padding: 40px;}
+.post1, .post2, .post3{width: 250px;min-height: 250px;padding: 20px;box-shadow: 5px 5px 10px gray;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
