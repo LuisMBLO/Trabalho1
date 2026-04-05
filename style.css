@@ -30,15 +30,15 @@ p {
 body {
     margin: 0;
     padding: 20px;
-    background-color: #f5f5f5;
+    background-color: rgb(243, 243, 243);
 }
 
 
 blockquote {
     font-style: italic;
-    background-color: #eeeeee;
+    background-color: rgb(226, 226, 226);
     padding: 15px;
-    border-left: 5px solid gray;
+    border-left: 5px solid rgb(110, 110, 110);
 }
 
 cite {
@@ -55,4 +55,6 @@ cite {
 }
 
 
-
+cite :hover {
+    color: rgb(255, 1, 1);
+}
